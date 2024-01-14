@@ -1,0 +1,8 @@
+# environment
+openai/.env
+llama2/.env
+gemini/.env
+
+
+llama2/models/
+*__pycache__
