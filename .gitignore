@@ -6,3 +6,6 @@ gemini/.env
 
 llama2/models/
 *__pycache__
+
+# Document
+Documents/
